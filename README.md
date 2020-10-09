@@ -1,2 +1,4 @@
 # simple-product-website
-A simple website created using only HTML and CSS
+Advanced CSS has been used in this site
+We are using BEM (Block Element Modifier) naming
+
