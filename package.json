@@ -1,0 +1,22 @@
+{
+  "name": "simple-product-website",
+  "version": "1.0.0",
+  "description": "Advanced CSS has been used in this site We are using BEM (Block Element Modifier) naming",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jushita/simple-product-website.git"
+  },
+  "author": "jushitaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jushita/simple-product-website/issues"
+  },
+  "homepage": "https://github.com/jushita/simple-product-website#readme",
+  "dependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
