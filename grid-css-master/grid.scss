@@ -2,7 +2,7 @@
 
 .row {
     max-width: 114rem;
-    // background-color:  #eee;
+    background-color:  #eee;
     margin: 0 auto;
 
 
@@ -15,14 +15,14 @@
 
     // ^ -> starts with $ -> ends with * -> contains anywhere
     [class^="col-"] {
-        // background-color: pink;
+        background-color: pink;
         float: left;
         &:not(:last-child) {
             margin-right: $gutter-horizontal;
         }
         max-height: 5rem;
-        // text-align: center;
-        // padding-top: 2%;
+        text-align: center;
+        padding-top: 2%;
         padding-bottom: 2%;
     }
 
