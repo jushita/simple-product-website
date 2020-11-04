@@ -53,6 +53,12 @@
         animation: moveInBottom .5s ease-out .75s;
         animation-fill-mode: backwards;
     }
+
+    &--book {
+        margin-top: 55%;
+        background-color: $color-primary-dark;
+        color: $color-white;
+    }
 }
 
 .btn-text {

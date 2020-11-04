@@ -160,6 +160,11 @@ body {
   animation: moveInBottom .5s ease-out .75s;
   animation-fill-mode: backwards; }
 
+.btn--book {
+  margin-top: 55%;
+  background-color: #28b485;
+  color: #fff; }
+
 .btn-text:link, .btn-text:visited {
   font-size: 1.67rem;
   color: #55c57a;
